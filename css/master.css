@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+body {
+  font-family: 'Satisfy', cursive;
+  color: #fff;
+  padding: 50px;
+  width: 300px;
+  margin: 0 auto;
+  background-size: cover;
+  background: url("https://i.pinimg.com/564x/3c/24/6b/3c246b53c2e1659092a59bd121a4e0b5.jpg") no-repeat fixed center;
+}
+
+.dropdown {
+  position: absolute;
+  top:50%;
+  transform: translateY(-50%);
+}
+
+a {
+  color: #fff;
+}
+
+.dropdown dd,
+.dropdown dt {
+  margin: 0px;
+  padding: 0px;
+}
+button {
+  background-color: #6BBE92;
+  width: 302px;
+  border: 0;
+  padding: 10px 0;
+  margin: 5px 0;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+}
+a
+{
+font-family: 'Satisfy', cursive;
+}
