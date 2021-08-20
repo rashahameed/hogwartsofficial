@@ -10,8 +10,12 @@
 
 ## Beast : Augurey, Werewolf, Owl, Dragon, Phoenix
 
-## Objects that Fascinated me: Hocrux, Wand, Broomstick, Deathly Hollows, Time Turner, Nimbus 2000, Sorting Hat
+## Objects that Fascinated me: Hocrux, Wand, Broomstick, Deathly Hollows, Time Turner, Nimbus 2000, Sorting Hat, Mirror of Erised
 
 ## Favorite Spell : Sectumsempra
 
 ## Favorite Place : The Forbidden Forest, 
+
+## Favourite Character??<br>Ah,Don't ask me that! It's the Granger for sure ;)
+
+### Duh! If you are a true potterhead pull an issue and hit your wizarding bio
